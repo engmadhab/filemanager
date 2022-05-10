@@ -62,3 +62,15 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## How to run this project 
+NB: You can use any command line software like git scm or vs code terminal or windows command prompt for write command 
+
+1. Goto github link: https://github.com/engmadhab/filemanager
+2. Clone or download 
+3. if you download, Extract the folder 
+4. Run "composer install"  
+5. copy .env.example and make .env
+6. Run   "php artisan key:generate"
+7. Run   "php artisan serve"
+8. http://localhost:8000/filemanager hit this url from browser
